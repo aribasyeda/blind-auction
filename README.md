@@ -5,6 +5,3 @@
 
 ### Programming Flow Chart:
 ![flow chart](https://github.com/aribasyeda/blind_auction/blob/main/flow_chart_programming.png)
-
-### Authors:
-Ariba Syeda
